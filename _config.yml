@@ -13,6 +13,7 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+future: true
 
 title: 귀차니즘 무루
 
@@ -216,4 +217,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-future: true
